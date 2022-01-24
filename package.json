@@ -1,5 +1,5 @@
 {
-  "name": "simple-functional-ts",
+  "name": "@ysk8hori/simple-functional-ts",
   "version": "0.0.0",
   "description": "",
   "main": "build/src/index.js",
@@ -9,6 +9,9 @@
   ],
   "license": "Apache-2.0",
   "keywords": [],
+  "publishConfig": {
+    "@ysk8hori:registry": "https://npm.pkg.github.com"
+  },
   "scripts": {
     "test": "jest",
     "lint": "gts lint",
