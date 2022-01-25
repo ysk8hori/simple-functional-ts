@@ -1,7 +1,4 @@
-import { pipe } from '../pipe';
-import { identity } from '../identity';
-import { tap } from '../tap';
-import { seq } from '../seq';
+import { pipe, identity, tap, seq } from '../';
 
 function createFizzBuzz(
   fizzBuzzString: string,

@@ -1,4 +1,4 @@
-import { fork } from '../fork';
+import { fork } from '../';
 
 describe('fork', () => {
   // ジェネリクスによる型推論の確認をするためboolean,number,stringを織り交ぜた関数合成を行う。

@@ -4,3 +4,4 @@ export * from './tap';
 export * from './seq';
 export * from './alternation';
 export * from './fork';
+export * from './curry';

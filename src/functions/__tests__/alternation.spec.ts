@@ -1,4 +1,4 @@
-import { alternation } from '../alternation';
+import { alternation } from '../';
 
 describe('alternation', () => {
   describe('number', () => {

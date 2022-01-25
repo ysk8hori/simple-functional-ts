@@ -1,4 +1,4 @@
-import { curry } from '../curry';
+import { curry } from '../';
 describe('curry', () => {
   test('no argument', () => {
     function greet(): string {
