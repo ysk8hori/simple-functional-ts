@@ -7,11 +7,8 @@
   "files": [
     "build/src"
   ],
-  "license": "Apache-2.0",
+  "license": "MIT",
   "keywords": [],
-  "publishConfig": {
-    "@ysk8hori:registry": "https://npm.pkg.github.com"
-  },
   "scripts": {
     "test": "jest",
     "lint": "gts lint",
