@@ -1,0 +1,12 @@
+{
+  "extends": ["config:base", "schedule:earlyMondays"],
+  "baseBranches": ["develop"],
+  "packageRules": [
+    {
+      "matchUpdateTypes": ["minor", "patch"],
+      "labels": ["UPDATE-MINOR&PATCH"],
+      "excludePackageNames": ["typescript"]
+    }
+  ],
+  "automerge": true
+}
