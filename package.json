@@ -1,6 +1,6 @@
 {
   "name": "@ysk8hori/simple-functional-ts",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "",
   "main": "build/src/index.js",
   "types": "build/src/index.d.ts",
