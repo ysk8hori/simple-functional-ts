@@ -7,8 +7,12 @@
   "files": [
     "build/src"
   ],
+  "author": "ysk8hori",
   "license": "MIT",
-  "keywords": [],
+  "keywords": [
+    "typescript",
+    "functional programming"
+  ],
   "scripts": {
     "test": "jest",
     "lint": "gts lint",
